@@ -11,3 +11,6 @@ y = np.log(x)
 
 ## Fifth written at github branch_0
 plot(x, y)
+
+## Sixth written at merge
+boxplot(x, y)
